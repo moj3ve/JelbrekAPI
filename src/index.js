@@ -36,6 +36,7 @@ app.get('/', (req, res) => {
 // Show a page with the jailbreak information if the jailbreak passed is valid
 app.get('/search', (req, res) => {
 	var jailbreakName = req.query.name;
+	jailbreakName = jailbreakName.toLowerCase();
 
 	if (jailbreaks[jailbreakName] != null) {
 		return res.render('info.ejs', { jailbreak: jailbreaks[jailbreakName] });
@@ -59,6 +60,7 @@ app.get('/v1/jailbreaks', (req, res) => {
 // Get information about a particular jailbreak, or return a 404 when a GET request is sent to '/v1/jailbreak/:name'
 app.get('/v1/jailbreak/:name', (req, res) => {
 	var jailbreakName = req.params.name;
+	jailbreakName = jailbreakName.toLowerCase();
 
 	if (jailbreaks[jailbreakName] != null) {
 		res.status(200).json({ content: jailbreaks[jailbreakName] });
