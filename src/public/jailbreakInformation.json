@@ -1,0 +1,189 @@
+{
+	"unc0ver": {
+		"displayName": "unc0ver",
+		"icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+		"developers": [ "pwn20wnd", "sbingner" ],
+		"description": "The most advanced jailbreak tool for iOS 11.0 - 12.1.2",
+		"screenshots": [
+			"https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Screenshot-2.PNG",
+			"https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Screenshot-1.PNG",
+			"https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Screenshot-3.PNG"
+		],
+		"version": "v3.2.1",
+		"isOpenSource": true,
+		"githubURL": "https://github.com/pwn20wndstuff/Undecimus",
+		"website": "https://github.com/pwn20wndstuff/Undecimus"
+	},
+	"unc0verdark": {
+		"displayName": "unc0ver dark",
+		"icon": "https://github.com/nqcshady/unc0ver-dark/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+		"developers": [ "Diatrus", "Shady", "Hydri", "CodeRedKillah", "jacc" ],
+		"description": "unc0ver dark is an improved fork of the popular jailbreaking tool unc0ver, now bursting with less color. Not only does it sport a beautiful, OLED-friendly design, unc0ver dark gives users the ability to use Cydia and Sileo simultaneously, and downloads Cydia Substrate directly from the source via the Internet.",
+		"version": "v3.2.1",
+		"isOpenSource": true,
+		"githubURL": "https://github.com/nqcshady/unc0ver-dark",
+		"website": "https://dark.diatr.us/"
+	},
+	"chimera": {
+		"displayName": "Chimera",
+		"icon": "https://chimera.sh/img/icon.png",
+		"developers": [
+			"CoolStar",
+			"Jamie Bishop",
+			"tri'angle",
+			"ninjaprawn",
+			"Brandon Azad",
+			"PsychoTea",
+			"Ayden Panhuyzen"
+		],
+		"description": "Your device, your way.\nChimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.",
+		"screenshots": [ "https://chimera.sh/img/jumbotron.png" ],
+		"isOpenSource": false,
+		"version": "1.0.8",
+		"website": "https://chimera.sh"
+	},
+	"electra": {
+		"displayName": "Electra",
+		"icon": "https://coolstar.org/electra/Electra.png",
+		"developers": [ "Electra Team" ],
+		"description": "Electra is a jailbreak for all iPhones, iPod Touches, iPads and Apple TVs on iOS 11.0 - 11.4.1",
+		"screenshots": [ "https://coolstar.org/electra/Devices.png" ],
+		"isOpenSource": false,
+		"version": "1.3.2",
+		"website": "https://coolstar.org/electra/"
+	},
+	"yalu": {
+		"displayName": "yalu102",
+		"icon": "https://github.com/kpwn/yalu102/raw/master/yalu102/Assets.xcassets/AppIcon.appiconset/AppIcon60x60@3x.png?raw=true",
+		"developers": [ "qwertyoruiop", "marcograssi" ],
+		"description": "Yalu is a work-in-progress jailbreak for all iOS 10 64 bit devices except iPhone 7",
+		"screenshots": [ "" ],
+		"isOpenSource": true,
+		"version": "beta7",
+		"website": "https://yalu.qwertyoruiop.com/",
+		"githubURL": "https://github.com/kpwn/yalu102"
+	},
+	"meridian": {
+		"displayName": "Meridian",
+		"icon": "",
+		"developers": [ "PsychoTea", "Siguza", "Other Contributors" ],
+		"description": "A Jailbreak for iOS 10.x, supporting all 64-bit devices.",
+		"screenshots": [ "" ],
+		"isOpenSource": true,
+		"version": "1.0",
+		"website": "https://yalu.qwertyoruiop.com/",
+		"githubURL": "https://github.com/PsychoTea/MeridianJB"
+	},
+	"doubleh3lix": {
+		"displayName": "doubleH3lix",
+		"icon": "https://doubleh3lix.tihmstar.net/img/logo-default.png",
+		"developers": [ "tihmstar", "Siguza" ],
+		"description": "doubleH3lix is a semi-untethered jailbreak for all 64-bit devices, excluding the iPhone 7/Plus, running any version of iOS 10.",
+		"screenshots": [ "" ],
+		"isOpenSource": true,
+		"version": "RC8",
+		"website": "https://doubleh3lix.tihmstar.net/",
+		"githubURL": "https://github.com/tihmstar/doubleH3lix"
+	},
+	"phoenix": {
+		"displayName": "phoenix",
+		"icon": "https://phoenixpwn.com/phoenix.png",
+		"developers": [ "tihmstar", "Siguza" ],
+		"description": "phoenix is a semi-untethered jailbreak for 9.3.5. All 32-bit devices are supported.",
+		"screenshots": [ "" ],
+		"isOpenSource": false,
+		"version": "v4",
+		"website": "https://phoenixpwn.com/"
+	},
+	"homedepot": {
+		"displayName": "Home Depot",
+		"icon": "http://wall.supplies/wall.png",
+		"developers": [ "tihmstar", "Siguza" ],
+		"description": "Home Depot is a semi-untethered jailbreak for iOS 9.1 - 9.3.4. All 32-bit devices are supported.",
+		"screenshots": [ "" ],
+		"isOpenSource": false,
+		"version": "RC3",
+		"website": "http://wall.supplies/"
+	},
+	"pangu": {
+		"displayName": "Pangu Jailbreak",
+		"icon": "https://raw.githubusercontent.com/panguweb/pangu_picture/master/9_3_3/en/text1.png",
+		"developers": [ "tihmstar", "Siguza" ],
+		"description": "Pangu is a jailbreak for iOS 9.2 - 9.3.3. All 64-bit devices are supported.",
+		"screenshots": [ "" ],
+		"isOpenSource": false,
+		"version": "RC3",
+		"website": "http://wall.supplies/"
+	},
+	"etasonjb": {
+		"displayName": "EtasonJB (etasonJB, #EtasonJB)",
+		"icon": "https://dzmohaipa.com/app/img/Etason.png",
+		"developers": [ "tihmstar" ],
+		"description": "EtasonJB is a jailbreak for all 32-bit devices (except Apple TV), running iOS 8.4.1.",
+		"screenshots": [ "" ],
+		"isOpenSource": false,
+		"version": "RC5",
+		"website": "https://etasonjb.tihmstar.net/"
+	},
+	"taig": {
+		"displayName": "TaiG",
+		"icon": "http://res.taig.com/site/taig/image/logo.png",
+		"developers": [ "TaiG Team" ],
+		"description": "TaiG is a jailbreak compatible with all iOS 8 versions all the way up to iOS 8.4, including iOS 8.0.2, iOS 8.1, and iOS 8.1.1, iOS 8.2, and iOS 8.3.",
+		"screenshots": [ "" ],
+		"isOpenSource": false,
+		"version": "Windows: V2.4.5\nmacOS: V1.1.0",
+		"website": "http://www.taig.com/en/"
+	},
+	"ppjailbreak": {
+		"displayName": "PP Jailbreak (PP25, PP25 App, PP25 Jailbreak)",
+		"icon": "http://cdn.iphonehacks.com/wp-content/uploads/2015/01/pp-jailbreak-icon.jpg",
+		"developers": [ "PP Assistant / PP25" ],
+		"description": "PP Jailbreak is a free Chinese app containing tools capable of jailbreaking iOS 8 devices, except for Apple TV. Eligible products include: iPod Touch, iPhone and iPad. This app was developed by a Chinese iOS hacking community known as PP Assistant. It was first released on January 19, 2015",
+		"screenshots": [ "" ],
+		"isOpenSource": false,
+		"version": "5.9.6.4146",
+		"website": "http://25pp.com"
+	},
+	"evasi0n7": {
+		"displayName": "evasi0n7",
+		"icon": "http://cdn.iphonehacks.com/wp-content/uploads/2014/02/evasi0n7-logo-400x400.jpg",
+		"developers": [ "evad3rs" ],
+		"description": "A Jailbreak Compatible with all iPhones, iPod touches and iPads. iOS 7.0 - iOS 7.0.6 is supported.",
+		"screenshots": [ "" ],
+		"isOpenSource": false,
+		"version": "1.0.8",
+		"website": "http://evasi0n7.us/"
+	},
+	"p0sixspwn": {
+		"displayName": "./p0sixspwn",
+		"icon": "https://cdn.discordapp.com/attachments/559384141515325443/590965349134893066/output-onlinepngtools.png",
+		"developers": [ "evad3rs" ],
+		"description": "p0sixspwn is compatible with iOS 6.1.3 - 6.1.6.",
+		"screenshots": [ "" ],
+		"isOpenSource": true,
+		"version": "1.0.8",
+		"website": "https://ih8sn0w.com/p0sixspwn.html",
+		"githubURL": "https://github.com/p0sixspwn/p0sixspwn"
+	},
+	"redsn0w": {
+		"displayName": "redsn0w",
+		"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Pwnapple.png/64px-Pwnapple.png",
+		"developers": [ "The iPhone Dev Team" ],
+		"description": "RedSn0w is a jailbreak tool developed by the Dev-Team. Originally called QuickPWN, this jailbreak tool was quickly renamed, and has now become a household name for most jailbreakers. Unlike PwnageTool, RedSn0w works for both Mac and Windows, and is considered to be one of the most reliable jailbreaks by the whole community.",
+		"screenshots": [ "" ],
+		"isOpenSource": false,
+		"version": "0.9.15b3",
+		"website": "No-longer a thing"
+	},
+	"jailbreakme": {
+		"displayName": "Jailbreakme",
+		"icon": "https://media.idownloadblog.com/wp-content/uploads/2011/07/JailbreakMe-logo-e1311439310443.png",
+		"developers": [ "evad3rs" ],
+		"description": "JailbreakMe 4 is compatible with iOS 9.1-9.3.4 (32 bit). JailbreakMe 3 is compatible with iOS 4.3-4.3.3. JailbreakMe 2 is compatible with  iOS 3.1.2-4.0.1. JailbreakMe 1.0as originally used to jailbreak the iPhone and iPod Touch running the 1.1.1 version of iOS (iPhone OS).",
+		"screenshots": [ "" ],
+		"isOpenSource": false,
+		"version": "3.0",
+		"website": "https://jailbreak.me"
+	}
+}
