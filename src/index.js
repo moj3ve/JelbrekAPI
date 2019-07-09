@@ -33,7 +33,7 @@ app.get('/', (req, res) => {
 	res.render('index.ejs');
 });
 
-// Show an information page when a GET request is sent to '/'
+// Show a page with the jailbreak information if the jailbreak passed is valid
 app.get('/search', (req, res) => {
 	var jailbreakName = req.query.name;
 
@@ -67,7 +67,7 @@ app.get('/v1/jailbreak/:name', (req, res) => {
 	}
 });
 
-// Start the server on port 3000!
+// Start the server on the environment port or 8080!
 var server = app.listen(process.env.PORT || 8080, () => {
 	console.log(`wen eta? tfp0: 0x${server.address().port}`);
 });
